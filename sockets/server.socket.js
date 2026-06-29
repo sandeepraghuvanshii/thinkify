@@ -4,7 +4,7 @@ let io;
 export function initSocket(httpServer) {
   io = new Server(httpServer, {
     cors: {
-      origin: "https://thinkify-4ret.onrender.com",
+      origin: "https://thinkify-sxaq.onrender.com",
       credentials: true,
     },
   });

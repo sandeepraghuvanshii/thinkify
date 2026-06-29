@@ -16,7 +16,7 @@ initSocket(httpServer);
 
 app.use(
   cors({
-    origin: "https://thinkify-4ret.onrender.com",
+    origin: "https://thinkify-sxaq.onrender.com",
     credentials: true,
   }),
 );
